@@ -1,0 +1,18 @@
+// Last updated: 4/5/2026, 12:10:39 AM
+class Solution {
+public:
+    int firstUniqueEven(vector<int>& nums) {
+        map<int,int>freq;
+        for(int i:nums)
+            {
+                if(i%2==0)
+                    freq[i]++;
+            }
+        for(int i=0;i<nums.size();i++)
+            {
+                if(nums[i]%2!=0) continue;
+                if(freq[nums[i]]==1) return nums[i];
+            }
+        return -1;
+    }
+};
