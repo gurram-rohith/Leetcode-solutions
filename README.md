@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2075-decode-the-slanted-ciphertext](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3799-word-squares-ii](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/3799-word-squares-ii) |
+| [3800-minimum-cost-to-make-two-binary-strings-equal](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/3800-minimum-cost-to-make-two-binary-strings-equal) |
 ## Simulation
 |  |
 | ------- |
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3799-word-squares-ii](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/3799-word-squares-ii) |
+## Greedy
+|  |
+| ------- |
+| [3800-minimum-cost-to-make-two-binary-strings-equal](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/3800-minimum-cost-to-make-two-binary-strings-equal) |
 <!---LeetCode Topics End-->
