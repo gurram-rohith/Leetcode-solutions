@@ -1,58 +1,29 @@
 class Solution {
 public:
     vector<int> solveQueries(vector<int>& nums, vector<int>& queries) {
-        vector<int>ans;
-        int n=nums.size();
-        unordered_map<int,vector<int>>mpp;
-        for(int i=0;i<nums.size();i++)
-        {
+        int n = nums.size();
+        unordered_map<int, vector<int>>mpp;
+        for (int i = 0; i < n; i++) {
             mpp[nums[i]].push_back(i);
         }
-        for(int i=0;i<queries.size();i++)
-        {
-            int index=queries[i];
-            int val=nums[queries[i]];
-            if(mpp[val].size()==1) 
-            ans.push_back(-1);
-            else
-            {
-                vector<int>&vec=mpp[val];
-                int minans=INT_MAX;
-               int fg=upper_bound(vec.begin(),vec.end(),index)-vec.begin();
-
-               int lg=vec.size()-1;
-               if(vec[lg]==index) lg=-1;
-
-               int ls=lower_bound(vec.begin(),vec.end(),index)-vec.begin()-1;
-               
-               int fs=0;
-               if(index==vec[fs]) fs=-1;
-               if(fg>=0&&fg<=vec.size()-1)
-               {
-                int d=abs(index-vec[fg]);
-                minans=min({minans,d,n-d});
-               }
-
-               if(lg>=0&&lg<=vec.size()-1)
-               {
-                int d=abs(index-vec[lg]);
-                minans=min({minans,d,n-d});
-               }
-
-               if(fs>=0&&fs<=vec.size()-1)
-               {
-                int d=abs(index-vec[fs]);
-                minans=min({minans,d,n-d});
-               }
-
-               if(ls>=0&&ls<=vec.size()-1)
-               {
-                int d=abs(index-vec[ls]);
-                minans=min({minans,d,n-d});
-               }
-               ans.push_back(minans);
-            }
+        for (auto& [_, pos] : mpp) {
+            int x=pos[0];
+            pos.insert(pos.begin(),pos.back()-n);
+            pos.push_back(x+n);
         }
-        return ans;
+        int m = queries.size();
+        for (int i = 0; i < m; i++) {
+            int x = nums[queries[i]];
+            if (mpp[x].size() == 3) {
+                queries[i] = -1;
+                continue;
+            }
+            int pos =
+                lower_bound(mpp[x].begin(), mpp[x].end(), queries[i]) -
+                mpp[x].begin();
+            queries[i] = min(mpp[x][pos + 1] - mpp[x][pos],
+                             mpp[x][pos] - mpp[x][pos - 1]);
+        }
+        return queries;
     }
 };
