@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [3799-word-squares-ii](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/3799-word-squares-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3799-word-squares-ii](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/3799-word-squares-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,4 +48,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3488-closest-equal-element-queries](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
+## Backtracking
+|  |
+| ------- |
+| [3799-word-squares-ii](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/3799-word-squares-ii) |
+## Sorting
+|  |
+| ------- |
+| [3799-word-squares-ii](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/3799-word-squares-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3799-word-squares-ii](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/3799-word-squares-ii) |
 <!---LeetCode Topics End-->
