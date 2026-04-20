@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0312-burst-balloons) |
 | [0525-contiguous-array](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0874-walking-robot-simulation](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0874-walking-robot-simulation) |
+| [1043-partition-array-for-maximum-sum](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0132-palindrome-partitioning-ii](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0312-burst-balloons](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0312-burst-balloons) |
+| [1043-partition-array-for-maximum-sum](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Two Pointers
 |  |
