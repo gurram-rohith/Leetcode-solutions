@@ -1,7 +1,8 @@
 class Solution {
 public:
-    bool checkPal(string &s,int i,int j)
+    bool checkpal(string &s,int i,int j)
     {
+        if(i<0) return false;
         while(i<=j)
         {
             if(s[i]!=s[j]) return false;
@@ -9,25 +10,23 @@ public:
         }
         return true;
     }
-    int mincuts(string &s,vector<int>&dp,int i,int n)
-    {
-        if(i==n) return 0;
-        if(dp[i]!=-1) return dp[i];
-        int minc=INT_MAX,c;
-        for(int k=i;k<n;k++)
-        {
-            if(checkPal(s,i,k))
-            {
-               c=1+mincuts(s,dp,k+1,n);
-               minc=min(minc,c);
-            }
-        }
-        return dp[i]=minc;
-
-    }
     int minCut(string s) {
         int n=s.size();
-        vector<int>dp(n,-1);
-        return mincuts(s,dp,0,n)-1;
+        vector<int>dp(n,0);
+        for(int i=0;i<n;i++)
+        {
+            int mincost=INT_MAX;
+            for(int k=i;k>=0;k--)
+            {
+                if(checkpal(s,k,i))
+                {
+                    if(k==0) mincost=1;
+                    else
+                    mincost=min(mincost,1+dp[k-1]);
+                }
+            }
+            dp[i]=mincost;
+        }
+        return dp[n-1]-1;
     }
 };
