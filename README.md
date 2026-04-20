@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3488-closest-equal-element-queries](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3800-minimum-cost-to-make-two-binary-strings-equal](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/3800-minimum-cost-to-make-two-binary-strings-equal) |
 ## Math
 |  |
