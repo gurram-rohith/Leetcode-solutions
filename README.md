@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0312-burst-balloons](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0312-burst-balloons) |
 | [0525-contiguous-array](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0874-walking-robot-simulation](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0874-walking-robot-simulation) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0312-burst-balloons](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0312-burst-balloons) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Two Pointers
 |  |
