@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0874-walking-robot-simulation) |
 | [1043-partition-array-for-maximum-sum](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -98,4 +99,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+## Depth-First Search
+|  |
+| ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
+## Union-Find
+|  |
+| ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
+## Matrix
+|  |
+| ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 <!---LeetCode Topics End-->
