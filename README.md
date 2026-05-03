@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0132-palindrome-partitioning-ii](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0657-robot-return-to-origin](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0657-robot-return-to-origin) |
+| [0796-rotate-string](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0796-rotate-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3799-word-squares-ii](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/3799-word-squares-ii) |
@@ -115,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1559-detect-cycles-in-2d-grid](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
