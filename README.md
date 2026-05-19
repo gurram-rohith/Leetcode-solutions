@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0132-palindrome-partitioning-ii](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0657-robot-return-to-origin](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0796-rotate-string) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0132-palindrome-partitioning-ii](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0312-burst-balloons](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0312-burst-balloons) |
 | [1043-partition-array-for-maximum-sum](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/1043-partition-array-for-maximum-sum) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0061-rotate-list](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0061-rotate-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/2540-minimum-common-value) |
