@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0874-walking-robot-simulation](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0874-walking-robot-simulation) |
 | [1043-partition-array-for-maximum-sum](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/1043-partition-array-for-maximum-sum) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0312-burst-balloons](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0312-burst-balloons) |
 | [1043-partition-array-for-maximum-sum](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/1043-partition-array-for-maximum-sum) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Two Pointers
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0048-rotate-image) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 ## String Matching
 |  |
