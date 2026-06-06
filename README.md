@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/2540-minimum-common-value) |
+| [2574-left-and-right-sum-differences](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3488-closest-equal-element-queries](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0525-contiguous-array) |
+| [2574-left-and-right-sum-differences](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 ## Dynamic Programming
 |  |
 | ------- |
