@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0796-rotate-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3799-word-squares-ii](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/3799-word-squares-ii) |
 | [3800-minimum-cost-to-make-two-binary-strings-equal](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/3800-minimum-cost-to-make-two-binary-strings-equal) |
 ## Simulation
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0874-walking-robot-simulation](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0874-walking-robot-simulation) |
 | [2540-minimum-common-value](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/2540-minimum-common-value) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3488-closest-equal-element-queries](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
