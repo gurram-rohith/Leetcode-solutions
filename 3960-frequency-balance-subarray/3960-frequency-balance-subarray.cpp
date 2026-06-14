@@ -9,8 +9,14 @@ public:
             int maxfreq=0;
             for(int j=i;j<n;j++)
             {
-                
+                if(freq.find(nums[j])!=freq.end())
+                {
+                    int of=freq[nums[j]];
+                    freqcnt[of]--;
+                    if(freqcnt[of]==0) freqcnt.erase(of);
+                }
                 freq[nums[j]]++;
+                freqcnt[freq[nums[j]]]++;
                 maxfreq=max(maxfreq,freq[nums[j]]);
                 if(freq.size()==1)
                 {
@@ -18,20 +24,8 @@ public:
                     continue;
                 }
                 if(maxfreq%2!=0) continue;
-                int half=maxfreq/2;
-                bool f=true,t=false,b=false;
-                for(auto it:freq)
-                {
-                    
-                    if(it.second!=half&&it.second!=maxfreq)
-                    {
-                        f=false;
-                        break;
-                    }
-                    if(it.second==half) t=true;
-                    if(it.second==maxfreq) b=true;
-                }
-                if(f&t&b) maxlen=max(maxlen,j+1-i);
+                if(freqcnt.size()==2&&freqcnt.find(maxfreq)!=freqcnt.end()&&freqcnt.find(maxfreq/2)!=freqcnt.end()) maxlen=max(maxlen,j+1-i);
+                
             }
         }
         return maxlen;
