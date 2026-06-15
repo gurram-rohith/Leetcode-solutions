@@ -8,6 +8,7 @@ public:
         vector<pair<int,int>>vpp;
         for(int i=0;i<n;i++) vpp.push_back({arr[i],i});
         sort(vpp.begin(),vpp.end());
+        // we have to sort because the subproblems which are the lower numbers must be solved first
         for(auto it:vpp)
         {
             int i=it.second;
