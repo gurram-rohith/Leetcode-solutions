@@ -18,25 +18,21 @@ public:
         ll maxwidth=1;
         while(!q.empty())
         {
-            vector<pair<TreeNode*,ll>>vpp;
-            while(!q.empty())
+            int s=q.size();
+            ll minind=q.front().second;
+            ll firstind,lastind;
+            for(int i=0;i<s;i++)
             {
-                vpp.push_back(q.front());
+                ll curid=q.front().second-minind;
+                TreeNode* t=q.front().first;
                 q.pop();
+                if(t->left) q.push({t->left,(curid)*2});
+                if(t->right) q.push({t->right,(curid)*2+1});
+                if(i==0) firstind=curid;
+                if(i==s-1) lastind=curid;
             }
-            ll minind=INT_MAX,maxind=INT_MIN;
-            for(int i=0;i<vpp.size();i++)
-            {
-                minind=min(minind,vpp[i].second);
-                maxind=max(maxind,vpp[i].second);
-            }
-            maxwidth=max(maxwidth,maxind-minind+1);
-            for(int i=0;i<vpp.size();i++)
-            {
-                if(vpp[i].first->left!=NULL) q.push({vpp[i].first->left,(vpp[i].second-minind)*2});
-                if(vpp[i].first->right!=NULL) q.push({vpp[i].first->right,(vpp[i].second-minind)*2+1});
+            maxwidth=max(maxwidth,lastind-firstind+1);
 
-            }
         }
         return (int)maxwidth;
     }
