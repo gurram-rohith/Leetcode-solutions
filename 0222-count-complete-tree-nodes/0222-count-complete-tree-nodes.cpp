@@ -11,9 +11,20 @@
  */
 class Solution {
 public:
-    
-    int countNodes(TreeNode* root) {
+    int findlh(TreeNode*root)
+    {
         if(root==NULL) return 0;
+        return 1+findlh(root->left);
+    }
+    int findrh(TreeNode*root)
+    {
+        if(root==NULL) return 0;
+        return 1+findrh(root->right);
+    }
+    int countNodes(TreeNode* root) {
+        int lefth=findlh(root);
+        int righth=findrh(root);
+        if(lefth==righth) return pow(2,lefth)-1;
         return 1+countNodes(root->left)+countNodes(root->right);
     }
 };
