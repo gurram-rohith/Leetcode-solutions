@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0048-rotate-image) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
