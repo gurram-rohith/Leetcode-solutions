@@ -1,29 +1,44 @@
 class Solution {
 public:
-    vector<bool> transformStr(string s, vector<string>& strs) {int n = s.size();
-    vector<int> A(n + 1, 0);
-    for (int i = 0; i < n; i++) A[i+1] = A[i] + (s[i] - '0');
-    int onesS = A[n];
+    vector<bool> transformStr(string s, vector<string>& strs) {
+        int n=s.size();
+        vector<bool>ans(strs.size(),false);
+        vector<int>oness(s.size()+1,0);
+        for(int i=0;i<n;i++)
+        {
+            oness[i+1]=oness[i]+(s[i]-'0');
+        } 
+        for(int i=0;i<strs.size();i++)
+        {
+            vector<int>pre1(strs[i].size()+1,0),preqc(strs[i].size()+1,0);
+            int len=strs[i].size();
+            for(int j=0;j<len;j++)
+            {
+            pre1[j+1] = pre1[j];
+            preqc[j+1] = preqc[j];
 
-    vector<bool> ans(strs.size(), false);
-    for (int idx = 0; idx < (int)strs.size(); idx++) {
-        string &t = strs[idx];
-        int len = t.size();
-        vector<int> F1(len+1, 0), Qc(len+1, 0);
-        for (int i = 0; i < len; i++) {
-            F1[i+1] = F1[i] + (t[i] == '1');
-            Qc[i+1] = Qc[i] + (t[i] == '?');
+            if(strs[i][j]=='1')
+            pre1[j+1]++;
+            else if(strs[i][j]=='?')
+            preqc[j+1]++;
+            }
+            int onespresent=pre1[len];
+            int requiredones=oness[n]-onespresent;
+            if(requiredones>preqc[len]||requiredones<0) continue;
+            int accones=preqc[len]-requiredones;
+            bool ok=true;
+            for(int k=1;k<=len;k++)
+            {
+                int bk=pre1[k]+max(0,preqc[k]-accones);
+                if(bk>oness[k])
+                {
+                    ok=false;
+                    break;
+                }
+            }
+            ans[i]=ok;
         }
-        int x = onesS - F1[len];
-        if (x < 0 || x > Qc[len]) continue; // false
-
-        int QminusX = Qc[len] - x;
-        bool ok = true;
-        for (int k = 1; k <= len; k++) {
-            int Bk = F1[k] + max(0, Qc[k] - QminusX);
-            if (Bk > A[k]) { ok = false; break; }
-        }
-        ans[idx] = ok;
+        return ans;
+        
     }
-    return ans;}
 };
