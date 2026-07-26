@@ -11,29 +11,17 @@
  */
 class Solution {
 public:
-unordered_map<int,int>pos;
-     int preindex=0;
-    TreeNode* build(vector<int>& preorder, vector<int>& inorder,int l,int r)
+        int i=0;
+    TreeNode* constructbst(vector<int>&preorder,int &i,int upperb)
     {
-        
-        if(l>r) return NULL;
-        int val = preorder[preindex++];
-        TreeNode* root = new TreeNode(val);
-        int idx=pos[val];
-        root->left=build(preorder,inorder,l,idx-1);
-        root->right=build(preorder,inorder,idx+1,r);
+        if(i==preorder.size()||preorder[i]>upperb) return NULL;
+        TreeNode*root=new TreeNode(preorder[i++]);
+        root->left=constructbst(preorder,i,root->val);
+        root->right=constructbst(preorder,i,upperb);
         return root;
-
-
-    } 
+    }
     TreeNode* bstFromPreorder(vector<int>& preorder) {
-        vector<int>inorder=preorder;
-        sort(inorder.begin(),inorder.end());
-        for(int i=0;i<inorder.size();i++)
-       {
-        pos[inorder[i]]=i;
-       }
-       return build(preorder,inorder,0,preorder.size()-1);
-
+        return constructbst(preorder,i,INT_MAX);
+        
     }
 };
