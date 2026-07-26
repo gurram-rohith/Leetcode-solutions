@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0874-walking-robot-simulation](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0874-walking-robot-simulation) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1043-partition-array-for-maximum-sum](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1260-shift-2d-grid](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Tree
 |  |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Number Theory
 |  |
 | ------- |
@@ -265,4 +269,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
