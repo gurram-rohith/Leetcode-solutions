@@ -12,13 +12,15 @@
 class Solution {
 public:
     int kthSmallest(TreeNode* root, int k) {
-        vector<int>inorder;
+        int cnt=0;
+        int ans=0;
         TreeNode*curr=root;
         while(curr!=NULL)
         {
             if(curr->left==NULL)
             {
-                inorder.push_back(curr->val);
+                cnt++;
+                if(cnt==k) ans= curr->val;
                 curr=curr->right;
             }
             else
@@ -36,11 +38,12 @@ public:
                 else
                 {
                     prev->right=NULL;
-                    inorder.push_back(curr->val);
+                    cnt++;
+                    if(cnt==k) ans= curr->val;
                     curr=curr->right;
                 }
             }
         }
-        return inorder[k-1];
+        return ans;
     }
 };
