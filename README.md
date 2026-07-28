@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1331-rank-transform-of-an-array](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/1340-jump-game-v) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/1340-jump-game-v) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [3536-maximum-product-of-two-digits](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3799-word-squares-ii](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/3799-word-squares-ii) |
@@ -281,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
