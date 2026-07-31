@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0796-rotate-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0874-walking-robot-simulation) |
 | [1331-rank-transform-of-an-array](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [2540-minimum-common-value](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/2540-minimum-common-value) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3488-closest-equal-element-queries](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/1340-jump-game-v) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3799-word-squares-ii](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/3799-word-squares-ii) |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3800-minimum-cost-to-make-two-binary-strings-equal](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/3800-minimum-cost-to-make-two-binary-strings-equal) |
 ## Math
 |  |
@@ -273,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Binary Search Tree
 |  |
