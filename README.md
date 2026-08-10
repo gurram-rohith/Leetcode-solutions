@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0785-is-graph-bipartite](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Breadth-First Search
@@ -192,12 +193,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0785-is-graph-bipartite](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Matrix
 |  |
@@ -307,4 +310,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Graph Theory
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
