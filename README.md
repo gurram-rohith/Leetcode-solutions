@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0198-house-robber](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0312-burst-balloons](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0312-burst-balloons) |
 | [0525-contiguous-array](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -194,11 +197,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0048-rotate-image) |
+| [0200-number-of-islands](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [1260-shift-2d-grid](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
