@@ -329,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0210-course-schedule-ii) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/gurram-rohith/Leetcode-solutions/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
